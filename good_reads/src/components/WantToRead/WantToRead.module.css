@@ -1,0 +1,10 @@
+.image{
+    margin: 2px;
+}
+
+.center_cropped{
+    object-fit: cover;
+    object-position: center;
+    height: 100px;
+    width: 100px;
+}
