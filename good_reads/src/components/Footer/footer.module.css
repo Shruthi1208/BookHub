@@ -1,0 +1,13 @@
+.container
+{
+    display: flex;
+    height: 300px;
+    width: 96%;
+    background-color: #F4F1EA ;
+    justify-content: space-around;
+    padding: 0 2%;
+}
+.Box
+{
+    height: 280px;
+}
